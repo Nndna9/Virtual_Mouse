@@ -59,4 +59,4 @@ Feel free to explore and modify the main.py script to suit your specific require
 ## Contributors
 
 - [Nandana Santosh](https://github.com/Nndna9) - [LinkedIn](https://www.linkedin.com/in/nandana-santhosh-2a91a0250/)
-- - [Krish Soni](https://github.com/krishvsoni) - [LinkedIn](https://www.linkedin.com/in/Krish-Soni-/)
+- [Krish Soni](https://github.com/krishvsoni) - [LinkedIn](https://www.linkedin.com/in/Krish-Soni-/)
