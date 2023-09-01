@@ -12,7 +12,7 @@ To run this virtual mouse project, you'll need to set up a Python virtual enviro
 
 ### 1. Clone the Repository
 
-```bash
+```
 https://github.com/Nndna9/Virtual_Mouse.git
 cd Virtual_Mouse
 
@@ -28,7 +28,7 @@ source venv/bin/activate
 # Install Dependencies
 Once your virtual environment is activated, install the project dependencies from the requirements.txt file:
 
-bash
+
 
 ```
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Running VirtualMouse.py
 To use the virtual mouse, you can run the VirtualMouse.py script:
 
-bash
+
 ```
 python VirtualMouse.py
 ```
@@ -47,7 +47,7 @@ This script allows you to control the mouse using your hand gestures.
 Running main.py
 Additionally, you can run the main.py script to perform other functionalities or tasks related to the virtual mouse project:
 
-bash
+
 ```
 python main.py
 ```
