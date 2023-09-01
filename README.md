@@ -29,7 +29,7 @@ source venv/bin/activate
 Once your virtual environment is activated, install the project dependencies from the requirements.txt file:
 
 bash
-Copy code
+
 ```
 pip install -r requirements.txt
 ```
@@ -40,7 +40,7 @@ To use the virtual mouse, you can run the VirtualMouse.py script:
 
 bash
 ```
-# Copy code
+
 
 python VirtualMouse.py
 ```
