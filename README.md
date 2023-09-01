@@ -39,8 +39,9 @@ Running VirtualMouse.py
 To use the virtual mouse, you can run the VirtualMouse.py script:
 
 bash
-Copy code
 ```
+# Copy code
+
 python VirtualMouse.py
 ```
 This script allows you to control the mouse using your hand gestures.
@@ -49,9 +50,9 @@ Running main.py
 Additionally, you can run the main.py script to perform other functionalities or tasks related to the virtual mouse project:
 
 bash
-
-Copy code
 ```
+# Copy code
+
 python main.py
 ```
 Feel free to explore and modify the main.py script to suit your specific requirements.
